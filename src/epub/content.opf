@@ -35,8 +35,8 @@
 		<dc:description id="description">A miserly weaver's isolated life is transformed by the theft of his precious money and the sudden appearance of an abandoned infant, who he adopts and raises.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In &lt;i&gt;Silas Marner&lt;/i&gt;, author George Eliot (pen name of Mary Ann Evans) introduces an embittered linen weaver who withdraws from society to work at his loom or count and re-count his accumulated gold. The abrupt theft of his money sends Marner into despair, which is interrupted just as suddenly by the appearance of an abandoned infant on his hearth. Marner adopts and raises the child, finding a new place among his community.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Silas Marner&lt;/i&gt; was well-received at the time of its release for its realism and simple charm. It has remained popular ever since and been adapted many times to stage and film.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Silas Marner&lt;/i&gt;, author George Eliot (pen name of Mary Ann Evans) introduces an embittered linen weaver who withdraws from society after a betrayal of trust. He retreats to work his loom or count and re-count his accumulated gold and silver. The abrupt theft of his money sends Marner into despair, which is interrupted just as suddenly by the appearance of an abandoned infant on his hearth. Marner adopts and raises the child, finding a new place among his community.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Silas Marner&lt;/i&gt; was well-received at the time of its release for its &ldquo;fairy tale&rdquo; charm, and has since gained appreciation for Eliot's treatment of alienation, religious feeling and community. It has remained popular ever since its publication and has been adapted many times to stage and film.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
