@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Silas Marner</dc:title>
 		<meta property="file-as" refines="#title">Silas Marner</meta>
 		<dc:subject id="subject-1">England -- Fiction</dc:subject>
@@ -35,20 +35,24 @@
 		<dc:subject id="subject-4">Adopted children -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Foundlings -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Weavers -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/550</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/550</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/550</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/550</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/550</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/550</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh86004353</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008103515</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2007100650</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008103470</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008113417</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A miserly weaver’s isolated life is transformed by the theft of his precious money and the sudden appearance of an abandoned infant, whom he adopts and raises.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In &lt;i&gt;Silas Marner&lt;/i&gt;, author George Eliot (the pen name of Mary Ann Evans) introduces an embittered linen weaver who withdraws from society after a betrayal of trust. He retreats to work his loom or count and re-count his accumulated gold and silver. The abrupt theft of his money sends Marner into despair, which is interrupted just as suddenly by the appearance of an abandoned infant on his hearth. Marner adopts and raises the child, finding a new place among his community.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Silas Marner&lt;/i&gt; was well-received at the time of its release for its “fairy tale” charm, and has since gained appreciation for Eliot’s treatment of alienation, religious feeling and community. It has remained popular ever since its publication and has been adapted many times to stage and film.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/550</dc:source>
 		<dc:source>https://archive.org/details/silasmarnerweave00eliorich</dc:source>
