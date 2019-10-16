@@ -62,7 +62,6 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-eliot_silas-marner</meta>
 		<dc:creator id="author">George Eliot</dc:creator>
 		<meta property="file-as" refines="#author">Eliot, George</meta>
-		<meta property="se:name.person.full-name" refines="#author">Mary Ann Evans</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_Eliot</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79045512</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
