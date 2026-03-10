@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-6.xhtml">
 		<ignore code="t-008">
+			<line>62</line>
 			<reason>Quotation is as-is in print.</reason>
 		</ignore>
 	</file>
