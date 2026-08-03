@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/george-eliot/silas-marner</dc:identifier>
 		<dc:date>2017-10-10T21:44:24Z</dc:date>
@@ -56,11 +56,11 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008113417</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A miserly weaver’s isolated life is transformed by the theft of his precious money and the sudden appearance of an abandoned infant, whom he adopts and raises.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A miserly weaver’s isolated life is transformed by the theft of his precious money and the sudden appearance of an abandoned infant, whom he adopts and raises.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In &lt;i&gt;Silas Marner&lt;/i&gt;, author &lt;a href="https://standardebooks.org/ebooks/george-eliot"&gt;George Eliot&lt;/a&gt; (the pen name of Mary Ann Evans) introduces an embittered linen weaver who withdraws from society after a betrayal of trust. He retreats to work his loom or count and re-count his accumulated gold and silver. The abrupt theft of his money sends Marner into despair, which is interrupted just as suddenly by the appearance of an abandoned infant on his hearth. Marner adopts and raises the child, finding a new place among his community.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Silas Marner&lt;/i&gt; was well-received at the time of its release for its “fairy tale” charm, and has since gained appreciation for Eliot’s treatment of alienation, religious feeling and community. It has remained popular ever since its publication and has been adapted many times to stage and film.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/550</dc:source>
 		<dc:source>https://archive.org/details/silasmarnerweave00eliorich</dc:source>
